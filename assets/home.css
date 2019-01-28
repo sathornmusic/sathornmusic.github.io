@@ -1,0 +1,32 @@
+@font-face {
+    font-family: "AvenirNextLTPro-Regular";
+    src: url(/assets/fonts/AvenirNextLTPro-Regular.otf) format("opentype");
+}
+
+@media(min-width:767px){
+    .title-text {
+        margin-top: 25%;
+    }
+
+    .front-image {
+        margin-top: 0px;
+    }
+}
+
+@media (max-width: 766px) {
+    .front-image {
+        margin-top: 10%;
+    }
+}
+
+@media(min-width:767px){
+    .color-everywhere-text {
+        margin-top: 30%;
+    }
+}
+
+@media (max-width: 766px) {
+    .color-everywhere-text {
+        margin-top: 10%;
+    }
+}
