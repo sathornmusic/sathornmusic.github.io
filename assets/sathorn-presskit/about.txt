@@ -1,0 +1,24 @@
+About
+
+Sathorn is a premium and fully featured Apple Music client for iPhone. It is the most feature rich Apple Music client for iOS.
+In addition to playing songs, albums, and playlists from the Apple Music catalog, it's defining features are:
+
+- A clean and efficient presentation of your Apple Music recommendations, playback history, and heavy rotation content
+- Browse top charts from Apple Music from 18 different genres across 26 countries
+- The only third party Apple Music client with Apple Music Radio playback, including Beats 1
+- The only music app for iOS with a convenient swipe to change song gesture
+- The only app with search within a playlist/album functionality
+- Search for and add songs, albums, and playlists from the Apple Music catalog to your local library
+- The most theme options of any Apple Music client. Choose any custom theme color and 3 different background themes: light, dark, and true black
+- View all your library's "loved" songs.
+- Sort playlists by Apple Music, user shared, folders, and regular playlists
+- Swipe up on Now Playing screen to view the current queue
+
+Taking inspiration from the iOS 8.4 Music app design, Sathorn makes your established music library
+easily accessible, yet has a dedicated space to discovering new music--all while maintaining the same iOS design
+feel that users know and love. Sathorn is a union of extensive control over your local library, while
+also promoting the discovery of new music.
+
+Convenience is at the heard of Sathorn's mission. Basic actions such as Loving a song, playing next, playing later, or
+shuffling a playlist/album are all accessible via quick swipe actions. You can search from any of the 5 main tabs--just pull down.
+The Songs and Albums tab both have a "Recently Added" section pinned to the top, so you can quickly find your recent content.
