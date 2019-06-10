@@ -1,4 +1,20 @@
-About
+Tagline: A premium Apple Music client for iOS
+
+Short description: 
+
+Sathorn is a premium Apple Music client for iOS that makes your established music library
+easily accessible, yet has a dedicated space to discovering new music--all while maintaining the same iOS design
+feel that users know and love.
+
+
+Medium Description: 
+
+Sathorn is a premium Apple Music client for iOS that makes your established music library
+easily accessible, yet has a dedicated space to discovering new music--all while maintaining the same iOS design
+feel that users know and love. Convenience is at the heard of Sathorn's mission. Basic actions such as Loving a song, playing next, playing later, or shuffling a playlist/album are all accessible via quick swipe actions. 
+
+
+Long Description:
 
 Sathorn is a premium and fully featured Apple Music client for iPhone. It is the most feature rich Apple Music client for iOS.
 In addition to playing songs, albums, and playlists from the Apple Music catalog, it's defining features are:
@@ -6,13 +22,20 @@ In addition to playing songs, albums, and playlists from the Apple Music catalog
 - A clean and efficient presentation of your Apple Music recommendations, playback history, and heavy rotation content
 - Browse top charts from Apple Music from 18 different genres across 26 countries
 - The only third party Apple Music client with Apple Music Radio playback, including Beats 1
-- The only music app for iOS with a convenient swipe to change song gesture
+- A convenient swipe to change song gesture
 - The only app with search within a playlist/album functionality
 - Search for and add songs, albums, and playlists from the Apple Music catalog to your local library
 - The most theme options of any Apple Music client. Choose any custom theme color and 3 different background themes: light, dark, and true black
 - View all your library's "loved" songs.
+- "Love" a song directly from the Now Playing screen
 - Sort playlists by Apple Music, user shared, folders, and regular playlists
-- Swipe up on Now Playing screen to view the current queue
+- Sort individual playlists by title, album, play count, date added, artist, release date, or last played
+- Swipe up on Now Playing screen to view the current queue and now playing metadata.
+- Now Playing song metadata includes the song title, artist, album, composer, genre, release date, play count, last played, and the date it was added to your library
+- View the name of the currently playing playlist or album 
+- Lastfm scrobbling integration
+- 8 different app icons to choose from
+- Create quick mixes: a Quickmix is an on-the-go smart playlist created based on parameters input by the user
 
 Taking inspiration from the iOS 8.4 Music app design, Sathorn makes your established music library
 easily accessible, yet has a dedicated space to discovering new music--all while maintaining the same iOS design
@@ -22,3 +45,7 @@ also promoting the discovery of new music.
 Convenience is at the heard of Sathorn's mission. Basic actions such as Loving a song, playing next, playing later, or
 shuffling a playlist/album are all accessible via quick swipe actions. You can search from any of the 5 main tabs--just pull down.
 The Songs and Albums tab both have a "Recently Added" section pinned to the top, so you can quickly find your recent content.
+
+System requirements:
+- iOS 11.0
+- An Apple Music subscription isn't required, but is preferable to take advantage of all the app's features
